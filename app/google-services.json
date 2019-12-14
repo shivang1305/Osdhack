@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600934888747",
+    "firebase_url": "https://osdhack-89699.firebaseio.com",
+    "project_id": "osdhack-89699",
+    "storage_bucket": "osdhack-89699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600934888747:android:f058f5cf48e3e5da8f816e",
+        "android_client_info": {
+          "package_name": "com.example.osdhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600934888747-h384tmiqnj31gg7d7q38547fu5mi4o0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osdhack",
+            "certificate_hash": "f7df0de4b2f4be1706737783ccffe73a08901304"
+          }
+        },
+        {
+          "client_id": "600934888747-rf2maqpqvh63mbgiiik1hu1tlglgcu1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQUigr0UFHg9u_ciyQvPNqAyMbqjY8tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600934888747-rf2maqpqvh63mbgiiik1hu1tlglgcu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
